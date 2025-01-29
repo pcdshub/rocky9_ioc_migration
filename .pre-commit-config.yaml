@@ -28,4 +28,3 @@ repos:
   - id: ruff  # run the linter
     args: [ --fix, --select, I ]  # --select I sorts imports
   - id: ruff-format  # run the formatter
-
